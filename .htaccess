@@ -1,0 +1,6 @@
+
+# HTID:18284662: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:18284662:
+RewriteRule ^404/?$ 404.php
+ErrorDocument 404 https://www.modular.ml
